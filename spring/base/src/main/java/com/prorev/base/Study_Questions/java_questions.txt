@@ -1,0 +1,10 @@
+1) explain how spring boot auto-configuration internally uses @ConditiaonalOnClass & @ConditionalOnMissingBean
+2) how would you debug a circular dependency issue in a large spring boot project
+3) explain how to secure a spring boot app using )Auth2 + JWT with key rotation
+4) how to implement a distributed caching with redis cluster and avoid cache stampede
+5) what are spring cloud patterns for service-to-service authentication
+6) explain reactive programming in Spring WebFlux vs traditional MVC
+7) how do you enable backpressure handling in reactive pipelines
+8) programmatic vs declarative transaction management - when to use which?
+9) How does Spring Boot manage bean lifecycle in kubernetes (shutdown hooks, graceful termination)
+10) How do you handle feature toggles in Spring Boot at scale
